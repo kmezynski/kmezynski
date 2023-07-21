@@ -1,0 +1,1 @@
+[//]: <Kamil Mężyński GitHub README>

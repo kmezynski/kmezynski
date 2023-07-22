@@ -18,25 +18,25 @@ contribute my expertise while continuously expanding my skill set.
   <p align="left">
     </p>
     <a href="https://github.com/kmezynski/ansible-role-pyenv">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=ansible-role-pyenv&theme=react&hide_border=true" />
+      <img align="center" width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=ansible-role-pyenv&theme=react&hide_border=true" />
     </a>
     <a href="https://github.com/kmezynski/ansible-role-ohmyzsh">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=ansible-role-ohmyzsh&theme=react&hide_border=true" />
+      <img align="center" width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=ansible-role-ohmyzsh&theme=react&hide_border=true" />
     </a>
     <a href="https://github.com/kmezynski/ansible-role-neovim">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=ansible-role-neovim&theme=react&hide_border=true" />
+      <img align="center" width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=ansible-role-neovim&theme=react&hide_border=true" />
     </a>
   </p>
 
   <p align="left">
     <a href="https://github.com/kmezynski/ansible-role-dotfiles">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=ansible-role-dotfiles&theme=react&hide_border=true" />
+      <img align="center" width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=ansible-role-dotfiles&theme=react&hide_border=true" />
     </a>
     <a href="https://github.com/kmezynski/rc_transmitter">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=rc_transmitter&theme=react&hide_border=true" />
+      <img align="center" width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=rc_transmitter&theme=react&hide_border=true" />
     </a>
     <a href="https://github.com/kmezynski/stm8_development_board">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=stm8_development_board&theme=react&hide_border=true" />
+      <img align="center" width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=kmezynski&repo=stm8_development_board&theme=react&hide_border=true" />
     </a>
   </p>
 

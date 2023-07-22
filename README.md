@@ -46,3 +46,54 @@ contribute my expertise while continuously expanding my skill set.
     </a>
   </p>
 </details>
+
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+
+  <!-- Icons are from https://devicon.dev/ -->
+  <!-- Icons to be considered https://github.com/Ileriayo/markdown-badges -->
+  <!-- Other icons to be considered https://skillicons.dev -->
+
+  <a href="https://www.linux.org">
+    <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </a>
+  <a href="https://www.ansible.com">
+    <img align="left" alt="Ansible" title="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+  </a>
+  <a href="https://kubernetes.io">
+    <img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  </a>
+  <a href="https://www.docker.com">
+    <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  </a>
+  <a href="https://www.terraform.io">
+    <img align="left" alt="Terraform" title="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  </a>
+  <a href="https://www.python.org">
+    <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  </a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14">
+    <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  </a>
+  <a href="https://isocpp.org">
+    <img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+  </a>
+  <a href="https://www.jenkins.io">
+    <img align="left" alt="Jenkins" title="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  </a>
+  <a href="https://aws.amazon.com">
+    <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  </a>
+  <a href="https://git-scm.com">
+    <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  </a>
+  <a href="https://about.gitlab.com">
+    <img align="left" alt="GitLab" title="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  </a>
+  <a href="https://github.com">
+    <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+  <a href="https://www.gnu.org/software/bash">
+    <img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  </a>
+</details>

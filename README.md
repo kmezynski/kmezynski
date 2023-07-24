@@ -97,3 +97,20 @@ contribute my expertise while continuously expanding my skill set.
     <img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
   </a>
 </details>
+
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kmezynski's streak" src="https://streak-stats.demolab.com?user=kmezynski&theme=react&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmezynski&show_icons=true&theme=gruvbox) -->
+  <!-- ![GitHub Languagues](https://github-readme-stats.vercel.app/api/top-langs?username=kmezynski&show_icons=true&locale=en&layout=compact&theme=gruvbox) -->
+</details>
